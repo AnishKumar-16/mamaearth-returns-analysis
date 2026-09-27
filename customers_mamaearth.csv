@@ -1,0 +1,46 @@
+customer_id,name,city,city_tier,signup_date,acquisition_source
+C001,Customer 1,Mumbai,Tier 1,2025-01-03,Referral
+C002,Customer 2,Delhi,Tier 1,2025-02-05,Organic
+C003,Customer 3,Bengaluru,Tier 1,2025-03-07,Instagram
+C004,Customer 4,Hyderabad,Tier 1,2025-04-09,Amazon
+C005,Customer 5,Pune,Tier 1,2025-05-11,Google Ads
+C006,Customer 6,Jaipur,Tier 2,2025-06-13,Google Ads
+C007,Customer 7,Lucknow,Tier 2,2025-07-15,Influencer
+C008,Customer 8,Indore,Tier 2,2025-08-17,Google Ads
+C009,Customer 9,Kochi,Tier 2,2025-09-19,Referral
+C010,Customer 10,Chandigarh,Tier 2,2025-10-21,Influencer
+C011,Customer 11,Mysuru,Tier 3,2025-11-23,Google Ads
+C012,Customer 12,Dehradun,Tier 3,2025-12-25,Influencer
+C013,Customer 13,Mumbai,Tier 1,2025-01-27,Organic
+C014,Customer 14,Delhi,Tier 1,2025-02-01,Google Ads
+C015,Customer 15,Bengaluru,Tier 1,2025-03-03,Google Ads
+C016,Customer 16,Hyderabad,Tier 1,2025-04-05,Instagram
+C017,Customer 17,Pune,Tier 1,2025-05-07,Instagram
+C018,Customer 18,Jaipur,Tier 2,2025-06-09,Google Ads
+C019,Customer 19,Lucknow,Tier 2,2025-07-11,Organic
+C020,Customer 20,Indore,Tier 2,2025-08-13,Google Ads
+C021,Customer 21,Kochi,Tier 2,2025-09-15,Influencer
+C022,Customer 22,Chandigarh,Tier 2,2025-10-17,Instagram
+C023,Customer 23,Mysuru,Tier 3,2025-11-19,Google Ads
+C024,Customer 24,Dehradun,Tier 3,2025-12-21,Influencer
+C025,Customer 25,Mumbai,Tier 1,2025-01-23,Google Ads
+C026,Customer 26,Delhi,Tier 1,2025-02-25,Organic
+C027,Customer 27,Bengaluru,Tier 1,2025-03-27,Amazon
+C028,Customer 28,Hyderabad,Tier 1,2025-04-01,Amazon
+C029,Customer 29,Pune,Tier 1,2025-05-03,Influencer
+C030,Customer 30,Jaipur,Tier 2,2025-06-05,Google Ads
+C031,Customer 31,Lucknow,Tier 2,2025-07-07,Influencer
+C032,Customer 32,Indore,Tier 2,2025-08-09,Influencer
+C033,Customer 33,Kochi,Tier 2,2025-09-11,Instagram
+C034,Customer 34,Chandigarh,Tier 2,2025-10-13,Google Ads
+C035,Customer 35,Mysuru,Tier 3,2025-11-15,Organic
+C036,Customer 36,Dehradun,Tier 3,2025-12-17,Google Ads
+C037,Customer 37,Mumbai,Tier 1,2025-01-19,Influencer
+C038,Customer 38,Delhi,Tier 1,2025-02-21,Organic
+C039,Customer 39,Bengaluru,Tier 1,2025-03-23,Referral
+C040,Customer 40,Hyderabad,Tier 1,2025-04-25,Instagram
+C041,Customer 41,Pune,Tier 1,2025-05-27,Organic
+C042,Customer 42,Jaipur,Tier 2,2025-06-01,Influencer
+C043,Customer 43,Lucknow,Tier 2,2025-07-03,Google Ads
+C044,Customer 44,Indore,Tier 2,2025-08-05,Influencer
+C045,Customer 45,Kochi,Tier 2,2025-09-07,Referral
