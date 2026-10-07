@@ -1,1 +1,0 @@
-# mamaearth-returns-analysis
