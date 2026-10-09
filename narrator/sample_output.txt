@@ -1,0 +1,18 @@
+Situation
+
+Mamaearth recorded a raw total revenue of INR 99,860.20, which adjusts to a cleaned total revenue of INR 97,358.30. Following data cleanup, 2026-03 is established as the true peak month, generating INR 20,318.90 in revenue.
+
+Complication
+
+Analysis revealed two separate data quality issues impacting revenue accuracy:
+1. A duplicate reconciliation difference of INR 2,501.90 stems directly from duplicate orders.
+2. January revenue was artificially inflated by quantity outliers, yielding an apparent revenue of INR 29,582.10 that reconciles to a corrected revenue of INR 11,637.10.
+
+In addition, order return rates present significant operational exposure across payment channels. While CARD orders have a return rate of 14.7% and UPI orders stand at 18.9%, COD orders experience a 44.4% return rate. The highest-risk segment overall is COD orders in Tier 2 cities, which reaches a peak return rate of 54.5%.
+
+Resolution
+
+Regional operations and finance leaders should implement the following targeted measures:
+- Finance should recognize cleaned performance metrics, adopting INR 97,358.30 as total revenue and updating 2026-03 as the true peak month (INR 20,318.90).
+- Finance and operations must address data quality by implementing automated system checks to eliminate duplicate orders (resolving the INR 2,501.90 reconciliation gap) and setting flags for quantity outliers (adjusting January revenue to INR 11,637.10).
+- Operations should focus risk mitigation efforts on cash payments, prioritizing processes to lower the 44.4% COD return rate and specifically targeting COD orders in Tier 2 cities to curb the 54.5% return rate.
